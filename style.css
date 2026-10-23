@@ -60,7 +60,7 @@ body {
     margin-bottom: 12px;
 }
 
-.published-date {
+.date {
     font-size: 14px;
     font-weight: 500;
     margin-bottom: 20px;
@@ -80,7 +80,7 @@ body {
     color: var(--Yellow);
 }
 
-.card-description {
+.description {
     color: var(--Gray500);
     font-size: 16px;
     font-weight: 500;
@@ -126,7 +126,7 @@ body {
         font-size: 22px;
     }
 
-    .card-description {
+    .description {
         font-size: 15px;
     }
 }
